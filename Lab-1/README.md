@@ -1,4 +1,3 @@
-
 # Lab-1 - Setup Environment
 
 ## Introduction:
